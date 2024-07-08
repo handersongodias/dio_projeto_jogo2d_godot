@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://k1padd6qjj23"]
+
+[ext_resource type="Texture2D" uid="uid://bc2r42ynboorh" path="res://addons/Tiny Swords/Factions/Knights/Buildings/House/House_Construction.png" id="1_7p82h"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_1gaqx"]
+size = Vector2(78, 68)
+
+[node name="HouseConstruction" type="Node2D"]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-2, 35)
+shape = SubResource("RectangleShape2D_1gaqx")
+
+[node name="HouseConstruction" type="Sprite2D" parent="StaticBody2D"]
+texture = ExtResource("1_7p82h")
