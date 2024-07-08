@@ -7,7 +7,7 @@ inspirado no Vampire Survivors.
   * Os Assets utilizados tambem estão dentro do repositorio
 # Baixando o projeto
 * Realizar o download do projeto, descompactar a pasta
-* Abrir o GODOT , ir na opção "IMPORT", selecionar a pasta onde foi descompactado o arquivo ,o projeto sera carregado na lista da tela principal, clique no projeto e ele será carregado.
+* Abrir o GODOT , ir na opção "IMPORT", selecionar a pasta onde foi descompactado o arquivo ,o projeto "ATTACK SWORD" será carregado na lista da tela principal, clique no projeto e ele será carregado.
 #  🛠 Projeto concluído, criaçao de jogo 2D com Godot
 
 ![GODOT](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
