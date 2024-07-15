@@ -5,6 +5,8 @@
 inspirado no Vampire Survivors.
 * Assets utilizados do [itch.io - tiny-swords](https://pixelfrog-assets.itch.io/tiny-swords)
   * Os Assets utilizados tambem estão dentro do repositorio
+* Link do jogo 
+  * [Attack-Sword](https://handersongodias.itch.io/attack-sword)
 # Baixando o projeto
 * Realizar o download do projeto, descompactar a pasta
 * Abrir o GODOT , ir na opção "IMPORT", selecionar a pasta onde foi descompactado o arquivo ,o projeto "ATTACK SWORD" será carregado na lista da tela principal, clique no projeto e ele será carregado.
